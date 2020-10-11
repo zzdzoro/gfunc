@@ -10,6 +10,7 @@ class Loader {
 
     public function index() {
         echo __FILE__;
+        echo __CLASS__;
     }
 
 }
