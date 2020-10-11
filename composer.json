@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Gfunc\\Library\\":"src/Gfunc/Library"
+            "Gfunc\\Library\\":"src"
         }
     }
 }
