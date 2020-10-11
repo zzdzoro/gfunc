@@ -1,8 +1,10 @@
 {
-    "name": "zzd/gfunc",
+    "name": "zdZoro/gfunc",
     "description": "gfunc && 学习",
     "type": "library",
     "license": "MIT",
+    "keywords": ["gfunc","zdZoro"],
+    "version":"1.0.0",
     "authors": [
         {
             "name": "zhaozhendong",
