@@ -1,0 +1,21 @@
+{
+    "name": "zzd/gfunc",
+    "description": "gfunc && 学习",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaozhendong",
+            "email": "zhaozhendong1009@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    },
+    "autoload":{
+        "psr-4":{
+            "Gfunc\\Library\\":"src/Gfunc/Library"
+        }
+    }
+}
