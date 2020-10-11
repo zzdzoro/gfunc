@@ -10,7 +10,7 @@ class Common {
 
     public function index() {
         echo __FILE__;
-        
+        echo __CLASS__;
     }
 
 }
