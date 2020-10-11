@@ -1,5 +1,5 @@
 <?php
-namespace zzdzoro\gfunc;
+namespace Gfunc;
 /**
  * Description of Common
  *
@@ -10,6 +10,7 @@ class Common {
 
     public function index() {
         echo __FILE__;
+        var_dump(1);
     }
 
 }
